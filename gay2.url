@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=file:///C:/Program Files/Internet Explorer/iexplore.exe
